@@ -57,12 +57,12 @@ Everyone gave inputs for the report by providiing the challenges that they faced
 
 **Our initial concept on what the system would be:**
 	
-![Initial Concept](https://github.ncsu.edu/ppatel16/DevOpsKnights/blob/m1_cm_build/before.png)   
+![before](https://user-images.githubusercontent.com/31077862/47091534-0c64f080-d1f3-11e8-885a-d86cf9a45c70.png)   
 	
 	
 **The final architecture:**
 	
-![Final Concept](https://github.ncsu.edu/ppatel16/DevOpsKnights/blob/m1_cm_build/after.png)   
+![after](https://user-images.githubusercontent.com/31077862/47091580-26063800-d1f3-11e8-89ed-7fda320545df.png)  
     
     
 2. Deciding which platform provider will be best suited for our need.   
